@@ -1,6 +1,7 @@
 # BancodeDados
 
 Existem outras entidades além dessas três?
+
 Sim, além das entedidades cursos, alunos e turmas, foi criado também a entidade professores para um melhor entendimento do banco de dados
 
 
